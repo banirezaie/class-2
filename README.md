@@ -6,12 +6,12 @@ season -> fasl
 vs
 session -> jalase
 
-I am Bani
+I am Alex
 
 I like
 
-1-pizza
-2-loobia
-3-bastani
+1-Spagetti
+2-morgh
+3-fruit
 
-I enjoy being here with you
+I enjoy being here with you :))))
