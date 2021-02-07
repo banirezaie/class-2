@@ -6,12 +6,12 @@ season -> fasl
 vs
 session -> jalase
 
-I am Bani
+I am benyamin
 
 I like
 
-1-pizza
-2-loobia
-3-bastani
+1-Ghorme sarziii
+2-zereshk polooooo
+3-and many many bastani
 
-I enjoy being here with you
+I am blackboard :D
