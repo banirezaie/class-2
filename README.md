@@ -6,12 +6,12 @@ season -> fasl
 vs
 session -> jalase
 
-I am Bani
+I am fatemeh
 
 I like
 
 1-pizza
 2-loobia
-3-bastani
+3-lavashak
 
 I enjoy being here with you
