@@ -6,12 +6,13 @@ season -> fasl
 vs
 session -> jalase
 
-I am Bani
+I am zahra
 
-I like
+I like....
 
 1-pizza
-2-loobia
+2-pastil
 3-bastani
+4-sibzamini :|
 
-I enjoy being here with you
+I enjoy being here with you ^_^
