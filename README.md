@@ -12,7 +12,7 @@ I like
 
 
 
-1-Ghorme sarziii
+1-Ghorme sarz
 2-zereshk polooooo
 3-and many many bastani
 
